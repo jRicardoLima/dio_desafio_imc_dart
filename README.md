@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Projeto do primeiro desafio DIO, do curso formação flutter.
+
+Objetivo do projeto é desenvolver uma calculadora de IMC utilizando a linguagem DART.
